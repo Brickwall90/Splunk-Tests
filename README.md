@@ -1,17 +1,15 @@
 Hello, I'm Joseph
 <a href="https://www.linkedin.com/in/joseph-glenn-444a5b39/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+This project demonstrates hands-on experience using Splunk to monitor, analyze, and investigate system and network logs. The lab focuses on identifying suspicious activity, analyzing authentication events, and recognizing patterns that may indicate potential security incidents.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+As part of a transition into cybersecurity, I have been building practical SOC analyst skills through hands-on labs, with a focus on log analysis, event correlation, and threat detection.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My interest in learning about different forms of malware has led me to develop an interest in cybersecurity. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, and eventually becoming a Malware Analyst. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
